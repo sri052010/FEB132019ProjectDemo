@@ -9,7 +9,7 @@ import cucumber.api.junit.Cucumber;
 @CucumberOptions(features="C:\\Users\\training_h1b.06.15\\eclipse-workspace\\cucumberProject\\src\\test\\java", glue= {"stepsdefs1"},
 plugin= {"pretty","json:target/cucumber-reports/Cucumber.json"})
 
-public class DemoLoginTestRunner1 
+public class TestRunner1 
 {
 	
 
